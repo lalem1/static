@@ -1,1 +1,1 @@
-https://github.com/lalem1/static/blob/main/0213.mp4
+https://github.com/lalem1/static/raw/refs/heads/main/0213.mp4
